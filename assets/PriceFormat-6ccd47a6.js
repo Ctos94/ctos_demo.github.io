@@ -1,1 +1,0 @@
-import{_ as e,y as t,o as r,c as a,t as s,K as n}from"./index-749c2d1b.js";const o=e({props:{amount:{default:0},currency:{type:String,default:"CNY"},size:{type:Number,default:16}},computed:{formattedPrice(){return t(Number(this.amount))}}},[["render",function(e,t,o,u,i,m){return r(),a("span",{style:n({fontSize:`${o.size}px`})},s(m.formattedPrice),5)}]]);export{o as P};
